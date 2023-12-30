@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c93556b7-1044-428d-afe5-daefde8f6ec3" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2ORghuU5iOk1DsiLenfZ677l4AR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/OnlineExamSystem/源代码/OnlineExamSystem/OnlineExamSystemVue&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Work\WorkSpace\GitWorkSpace\TenShop\resource\OnlineExamSystem\src\OnlineExamSystemApi - idea\src\main\java\com\rabbiter\oes\config" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="OnlineExamSystemApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="OnlineExamSystemApi" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.rabbiter.oes.OnlineExamSystemApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rabbiter.oes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.OnlineExamSystemApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c93556b7-1044-428d-afe5-daefde8f6ec3" name="Changes" comment="" />
+      <created>1681528931658</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681528931658</updated>
+      <workItem from="1681528932762" duration="603000" />
+      <workItem from="1681557496450" duration="40000" />
+      <workItem from="1681566912224" duration="628000" />
+      <workItem from="1681573462548" duration="1208000" />
+      <workItem from="1681616946332" duration="16000" />
+      <workItem from="1681988282421" duration="1216000" />
+      <workItem from="1682223938168" duration="575000" />
+      <workItem from="1682265812330" duration="1981000" />
+      <workItem from="1682315923863" duration="34000" />
+      <workItem from="1682339444368" duration="1659000" />
+      <workItem from="1682433743768" duration="762000" />
+      <workItem from="1682500666569" duration="22000" />
+      <workItem from="1683207980630" duration="871000" />
+      <workItem from="1683263518923" duration="10000" />
+      <workItem from="1683560516953" duration="585000" />
+      <workItem from="1683641052517" duration="270000" />
+      <workItem from="1684324947328" duration="2005000" />
+      <workItem from="1684428782649" duration="73000" />
+      <workItem from="1684888442411" duration="349000" />
+      <workItem from="1684920085624" duration="8000" />
+      <workItem from="1684987280228" duration="3000" />
+      <workItem from="1685508631180" duration="505000" />
+      <workItem from="1685537203682" duration="8000" />
+      <workItem from="1685807602500" duration="194000" />
+      <workItem from="1686502680735" duration="163000" />
+      <workItem from="1686667151303" duration="77000" />
+      <workItem from="1687510740324" duration="24000" />
+      <workItem from="1687511427509" duration="4000" />
+      <workItem from="1687590846119" duration="105000" />
+      <workItem from="1688357627755" duration="1755000" />
+      <workItem from="1688362220623" duration="86000" />
+      <workItem from="1688362321811" duration="1620000" />
+      <workItem from="1688377063218" duration="3000" />
+      <workItem from="1689314276226" duration="42000" />
+      <workItem from="1689400312211" duration="439000" />
+      <workItem from="1690976003767" duration="628000" />
+      <workItem from="1691067474601" duration="580000" />
+      <workItem from="1691310372879" duration="626000" />
+      <workItem from="1691572701422" duration="1199000" />
+      <workItem from="1691806846607" duration="1220000" />
+      <workItem from="1691946238423" duration="798000" />
+      <workItem from="1692029356584" duration="645000" />
+      <workItem from="1692118138575" duration="656000" />
+      <workItem from="1692196530738" duration="660000" />
+      <workItem from="1693155129990" duration="678000" />
+      <workItem from="1693537916456" duration="607000" />
+      <workItem from="1696059551182" duration="845000" />
+      <workItem from="1697475327951" duration="16000" />
+      <workItem from="1698251783490" duration="699000" />
+      <workItem from="1698316910200" duration="1198000" />
+      <workItem from="1698852830269" duration="578000" />
+      <workItem from="1699274608569" duration="482000" />
+      <workItem from="1700024611227" duration="785000" />
+      <workItem from="1700272758830" duration="6241000" />
+      <workItem from="1700484847202" duration="6000" />
+      <workItem from="1703176578451" duration="504000" />
+      <workItem from="1703223598255" duration="22000" />
+      <workItem from="1703427279032" duration="419000" />
+      <workItem from="1703681946668" duration="367000" />
+      <workItem from="1703682346522" duration="370000" />
+      <workItem from="1703682738525" duration="1448000" />
+      <workItem from="1703752845150" duration="5021000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../../.." />
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
+</project>
